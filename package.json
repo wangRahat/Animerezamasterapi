@@ -1,0 +1,7 @@
+{
+  "name": "animereza-master-api",
+  "version": "1.0.0",
+  "description": "AnimeReza Master API — single endpoint for all anime data",
+  "main": "index.js",
+  "engines": { "node": ">=18" }
+}
